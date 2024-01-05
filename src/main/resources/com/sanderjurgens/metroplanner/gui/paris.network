@@ -1,0 +1,505 @@
+name:Paris
+background:paris.png
+
+# Stations
+# format: station:code:name
+
+station:ABB:Abbesses
+station:ALE:Alésia
+station:ALD:Alexandre Dumas
+station:ANA:Anatole France
+station:ANV:Anvers
+station:ARG:Argentine
+station:ART:Arts et Métiers
+station:ASN:Asnières - Gennevilliers - Gabriel Péri
+station:ASS:Assemblée Nationale
+station:AVR:Avron
+station:BAR:Barbès-Rochechouart
+station:BAS:Bastille
+station:BEL:Bel Air
+station:BEV:Belleville
+station:BER:Bérault
+station:BCY:Bercy
+station:BIR:Bir-Hakeim
+station:BLA:Blanche
+station:BOB:Bobigny-Pablo Picasso
+station:BOP:Bobigny-Pantin-R.Queneau
+station:BOI:Boissière
+station:BOU:Bourse
+station:BRE:Bréguet-Sabin
+station:BRO:Brochant
+station:CAM:Cambronne
+station:CAP:Campo Formio
+station:CAF:Carrefour Pleyel
+station:CEC:Champs Élysées - Clémenceau
+station:CDG:Charles-de-Gaulle - Étoile
+station:CHV:Château de Vincennes
+station:CHD:Château d'Eau
+station:CHR:Château Rouge
+station:CHA:Châtelet
+station:CHT:Chatillon - Montrouge
+station:CHH:Chevaleret
+station:CIT:Cité
+station:COL:Colonel Fabien
+station:CON:Concorde
+station:COV:Convention
+station:CCE:Corentin Celton
+station:COR:Corvisart
+station:CUR:Courcelles
+station:COS:Couronnes
+station:DAU:Daumesnil
+station:DEN:Denfert-Rochereau
+station:DUP:Dupleix
+station:DUR:Duroc
+station:EDG:Edgar Quinet
+station:EGP:Église de Pantin
+station:ESP:Esplanade de La Défense
+station:ETI:Étienne Marcel
+station:EUR:Europe
+station:FAL:Falguière
+station:FRA:Franklin D. Roosevelt
+station:GAI:Gaîté
+station:GAL:Galliéni
+station:GAM:Gambetta
+station:GAU:Gare d'Austerlitz
+station:GES:Gare de l'Est
+station:GLY:Gare de Lyon
+station:GNO:Gare du Nord
+station:GAR:Garibaldi
+station:GEO:George V
+station:GLA:Glacière
+station:GAD:Grande Arche de La Défense
+station:GUY:Guy Môquet
+station:HAV:Havre-Caumartin
+station:HOC:Hoche
+station:HOT:Hôtel de Ville
+station:INV:Invalides
+station:JAC:Jacques Bonsergent
+station:JAU:Jaurès
+station:JUL:Jules Joffrin
+station:KLE:Kléber
+station:LCH:La Chapelle
+station:LFO:La Fourche
+station:LMO:La Motte-Piquet-Grenelle
+station:LAM:Lamarck - Caulaincourt
+station:LAU:Laumière
+station:LHA:Les Halles
+station:LSA:Les Sablons
+station:LIE:Liège
+station:LMI:Louise Michel
+station:LOR:Louvre-Rivoli
+station:MAD:Madeleine
+station:MIC:Mairie de Clichy
+station:MIS:Mairie de Saint-Ouen
+station:MII:Mairie d'Issy
+station:MPV:Malakoff - Plateau de Vanves
+station:MED:Malakoff - Rue Etienne Dolet
+station:MZZ:Malesherbes
+station:MRC:Marcadet-Poissonniers
+station:MAR:Marx Dormoy
+station:MEN:Ménilmontant
+station:MRM:Miromesnil
+station:MON:Monceau
+station:MPB:Montparnasse-Bienvenüe
+station:MOD:Mouton-Duvernet
+station:NAT:Nation
+station:NTE:Nationale
+station:NDL:Notre-Dame-de-Lorette
+station:NDC:Notre-Dame-des-Champs
+station:OBE:Oberkampf
+station:ODE:Odéon
+station:OPE:Opéra
+station:OUR:Ourcq
+station:PRM:Palais Royal - Musée du Louvre
+station:PAR:Parmentier
+station:PAS:Passy
+station:PAT:Pasteur
+station:PEL:Pelleport
+station:PLA:Père Lachaise
+station:PER:Péreire
+station:PRN:Pernety
+station:PHA:Philippe Auguste
+station:PIC:Picpus
+station:PIG:Pigalle
+station:PLC:Place de Clichy
+station:PLI:Place d'Italie
+station:PLZ:Plaisance
+station:POB:Pont de Levallois - Bécon
+station:PON:Pont de Neuilly
+station:ZAA:Porte Dauphine
+station:PTB:Porte de Bagnolet
+station:PTC:Porte de Champerret
+station:PTY:Porte de Clichy
+station:PTG:Porte de Clignancourt
+station:ZBB:Porte de la Chapelle
+station:PTP:Porte de Pantin
+station:PTE:Porte de Saint-Ouen
+station:PTQ:Porte de Vanves
+station:PTX:Porte de Versailles
+station:PTZ:Porte de Vincennes
+station:PTL:Porte des Lilas
+station:PTN:Porte d'Orléans
+station:PTT:Porte Maillot
+station:QUG:Quai de la Gare
+station:QUR:Quai de la Rapée
+station:QUS:Quatre Septembre
+station:RAS:Raspail
+station:REA:Réaumur-Sébastopol
+station:REN:Rennes
+station:REP:République
+station:REU:Reuilly-Diderot
+station:RIC:Richard-Lenoir
+station:ROM:Rome
+station:RDB:Rue du Bac
+station:RSM:Rue Saint-Maur
+station:SAC:Saint-Denis - Basilique
+station:SAD:Saint-Denis - Porte de Paris
+station:SAE:Saint-Denis - Université
+station:SFA:Saint-Fargeau
+station:SAF:Saint-François-Xavier
+station:SAG:Saint-Georges
+station:SAH:Saint-Germain-des-Prés
+station:SAJ:Saint-Jacques
+station:SAL:Saint-Lazare
+station:SAM:Saint-Mandé
+station:SAN:Saint-Marcel
+station:SAQ:Saint-Michel
+station:SAP:Saint-Paul
+station:SAT:Saint-Placide
+station:SAU:Saint-Sulpice
+station:SEN:Sentier
+station:SEV:Sèvres-Babylone
+station:SEL:Sèvres-Lecourbe
+station:SIM:Simplon
+station:SOL:Solférino
+station:STA:Stalingrad
+station:STR:Strasbourg-Saint-Denis
+station:TEM:Temple
+station:TER:Ternes
+station:TRI:Trinité - D'Estiennes d'Orves
+station:TRO:Trocadéro
+station:TUI:Tuileries
+station:VAR:Varenne
+station:VAU:Vaugirard
+station:VAV:Vavin
+station:VIC:Victor Hugo
+station:VIL:Villiers
+station:VOL:Volontaires
+station:WAG:Wagram
+
+# Lines
+# format: line:code:iscircular:isoneway:stop1-stop2-stop3
+
+line:1:0:0:GAD-ESP-PON-LSA-PTT-ARG-CDG-GEO-FRA-CEC-CON-TUI-PRM-LOR-CHA-HOT-SAP-BAS-GLY-REU-NAT-PTZ-SAM-BER-CHV
+line:2:0:0:ZAA-VIC-CDG-TER-CUR-MON-VIL-ROM-PLC-BLA-PIG-ANV-BAR-LCH-STA-JAU-COL-BEV-COS-MEN-PLA-PHA-ALD-AVR-NAT
+line:3:0:0:POB-ANA-LMI-PTC-PER-WAG-MZZ-VIL-EUR-SAL-HAV-OPE-QUS-BOU-SEN-REA-ART-TEM-REP-PAR-RSM-PLA-GAM-PTB-GAL
+line:3bis:0:0:GAM-PEL-SFA-PTL
+line:4:0:0:PTG-SIM-MRC-CHR-BAR-GNO-GES-CHD-STR-REA-ETI-LHA-CHA-CIT-SAQ-ODE-SAH-SAU-SAT-MPB-VAV-RAS-DEN-MOD-ALE-PTN
+line:5:0:0:BOB-BOP-EGP-HOC-PTP-OUR-LAU-JAU-STA-GNO-GES-JAC-REP-OBE-RIC-BRE-BAS-QUR-GAU-SAN-CAP-PLI
+line:6:0:0:CDG-KLE-BOI-TRO-PAS-BIR-DUP-LMO-CAM-SEL-PAT-MPB-EDG-RAS-DEN-SAJ-GLA-COR-PLI-NTE-CHH-QUG-BCY-DAU-BEL-PIC-NAT
+line:12:0:0:ZBB-MAR-MRC-JUL-LAM-ABB-PIG-SAG-NDL-TRI-SAL-MAD-CON-ASS-SOL-RDB-SEV-REN-NDC-MPB-FAL-PAT-VOL-VAU-COV-PTX-CCE-MII
+line:13:0:0:LFO-PLC-LIE-SAL-MRM-CEC-INV-VAR-SAF-DUR-MPB-GAI-PRN-PLZ-PTQ-MPV-MED-CHT
+line:13a:0:0:ASN-MIC-PTY-BRO-LFO
+line:13b:0:0:SAE-SAC-SAD-CAF-MIS-GAR-PTE-GUY-LFO
+
+# Station locations
+# format: station_gui:code:kind:x:y
+
+station_gui:ABB:stop:659:369
+station_gui:ALE:stop:671:1070
+station_gui:ALD:stop:1045:716
+station_gui:ANA:stop:344:331
+station_gui:ANV:stop:710:398
+station_gui:ARG:stop:299:530
+station_gui:ART:transfer:832:633
+station_gui:ASN:stop:379:211
+station_gui:ASS:stop:462:754
+station_gui:AVR:stop:1049:762
+station_gui:BAR:transfer:770:401
+station_gui:BAS:transfer:866:766
+station_gui:BEL:stop:1075:883
+station_gui:BEV:transfer:949:522
+station_gui:BER:stop:1179:859
+station_gui:BCY:transfer:991:967
+station_gui:BIR:transfer:291:812
+station_gui:BLA:stop:592:398
+station_gui:BOB:stop:1192:304
+station_gui:BOP:stop:1160:336
+station_gui:BOI:stop:253:649
+station_gui:BOU:stop:646:643
+station_gui:BRE:stop:895:721
+station_gui:BRO:stop:497:329
+station_gui:CAM:stop:431:897
+station_gui:CAP:stop:846:983
+station_gui:CAF:stop:621:185
+station_gui:CEC:transfer:433:664
+station_gui:CDG:transfer:330:562
+station_gui:CHV:stop:1198:878
+station_gui:CHD:stop:801:514
+station_gui:CHR:stop:733:363
+station_gui:CHA:transfer:710:705
+station_gui:CHT:stop:483:1201
+station_gui:CHH:stop:904:1030
+station_gui:CIT:stop:689:747
+station_gui:COL:stop:949:477
+station_gui:CON:transfer:457:688
+station_gui:COV:stop:413:1051
+station_gui:CCE:stop:350:1114
+station_gui:COR:stop:785:1030
+station_gui:CUR:stop:394:498
+station_gui:COS:stop:977:559
+station_gui:DAU:transfer:1050:908
+station_gui:DEN:transfer:685:990
+station_gui:DUP:stop:323:844
+station_gui:DUR:transfer:496:897
+station_gui:EDG:stop:606:950
+station_gui:EGP:stop:1136:360
+station_gui:ESP:stop:181:411
+station_gui:ETI:stop:710:657
+station_gui:EUR:stop:486:473
+station_gui:FAL:stop:527:937
+station_gui:FRA:transfer:407:638
+station_gui:GAI:stop:585:994
+station_gui:GAL:stop:1194:636
+station_gui:GAM:transfer:1099:634
+station_gui:GAU:transfer:864:922
+station_gui:GES:transfer:836:480
+station_gui:GLY:transfer:907:866
+station_gui:GNO:transfer:827:428
+station_gui:GAR:stop:556:250
+station_gui:GEO:stop:369:600
+station_gui:GLA:stop:743:1030
+station_gui:GAD:transfer:157:388
+station_gui:GUY:stop:526:324
+station_gui:HAV:transfer:543:570
+station_gui:HOC:stop:1103:380
+station_gui:HOT:transfer:763:705
+station_gui:INV:transfer:434:740
+station_gui:JAC:stop:854:540
+station_gui:JAU:transfer:943:430
+station_gui:JUL:stop:694:336
+station_gui:KLE:stop:293:609
+station_gui:LCH:transfer:835:398
+station_gui:LFO:transfer:526:365
+station_gui:LMO:transfer:369:878
+station_gui:LAM:stop:659:341
+station_gui:LAU:stop:971:402
+station_gui:LHA:transfer:710:682
+station_gui:LSA:stop:231:461
+station_gui:LIE:stop:526:446
+station_gui:LMI:stop:360:347
+station_gui:LOR:stop:613:705
+station_gui:MAD:transfer:460:646
+station_gui:MIC:stop:422:254
+station_gui:MIS:stop:589:217
+station_gui:MII:stop:317:1147
+station_gui:MPV:stop:483:1124
+station_gui:MED:stop:483:1162
+station_gui:MZZ:stop:434:421
+station_gui:MRC:transfer:733:336
+station_gui:MAR:stop:840:323
+station_gui:MEN:stop:1012:594
+station_gui:MRM:transfer:475:574
+station_gui:MON:stop:424:468
+station_gui:MPB:transfer:584:945
+station_gui:MOD:stop:682:1027
+station_gui:NAT:transfer:1066:800
+station_gui:NTE:stop:862:1030
+station_gui:NDL:stop:647:495
+station_gui:NDC:stop:610:912
+station_gui:OBE:transfer:902:620
+station_gui:ODE:transfer:661:822
+station_gui:OPE:transfer:570:597
+station_gui:OUR:stop:1008:380
+station_gui:PRM:transfer:569:705
+station_gui:PAR:stop:979:619
+station_gui:PAS:stop:253:774
+station_gui:PAT:transfer:513:950
+station_gui:PEL:stop:1133:588
+station_gui:PLA:transfer:1045:636
+station_gui:PER:transfer:399:386
+station_gui:PRN:stop:566:1024
+station_gui:PHA:stop:1045:672
+station_gui:PIC:stop:1099:859
+station_gui:PIG:transfer:659:398
+station_gui:PLC:transfer:526:398
+station_gui:PLI:transfer:815:1031
+station_gui:PLZ:stop:536:1054
+station_gui:POB:stop:328:315
+station_gui:PON:stop:206:436
+station_gui:ZAA:transfer:223:570
+station_gui:PTB:stop:1153:636
+station_gui:PTC:stop:376:363
+station_gui:PTY:transfer:471:301
+station_gui:PTG:stop:694:285
+station_gui:ZBB:stop:840:289
+station_gui:PTP:stop:1056:380
+station_gui:PTE:stop:526:286
+station_gui:PTQ:stop:506:1084
+station_gui:PTX:stop:381:1083
+station_gui:PTZ:stop:1118:816
+station_gui:PTL:transfer:1164:496
+station_gui:PTN:stop:642:1099
+station_gui:PTT:transfer:259:490
+station_gui:QUG:stop:946:1012
+station_gui:QUR:stop:866:857
+station_gui:QUS:stop:601:627
+station_gui:RAS:transfer:662:962
+station_gui:REA:transfer:756:646
+station_gui:REN:stop:580:870
+station_gui:REP:transfer:877:592
+station_gui:REU:transfer:986:844
+station_gui:RIC:stop:923:693
+station_gui:ROM:stop:485:407
+station_gui:RDB:stop:522:814
+station_gui:RSM:stop:1007:636
+station_gui:SAC:stop:780:149
+station_gui:SAD:stop:696:167
+station_gui:SAE:stop:818:111
+station_gui:SFA:stop:1164:544
+station_gui:SAF:stop:454:855
+station_gui:SAG:stop:659:446
+station_gui:SAH:stop:607:818
+station_gui:SAJ:stop:709:1013
+station_gui:SAL:transfer:526:523
+station_gui:SAM:stop:1158:838
+station_gui:SAN:stop:866:956
+station_gui:SAQ:transfer:671:796
+station_gui:SAP:stop:809:751
+station_gui:SAT:stop:592:897
+station_gui:SAU:stop:592:854
+station_gui:SEN:stop:694:643
+station_gui:SEV:transfer:551:841
+station_gui:SEL:stop:465:931
+station_gui:SIM:stop:714:305
+station_gui:SOL:stop:492:784
+station_gui:STA:transfer:911:408
+station_gui:STR:transfer:787:573
+station_gui:TEM:stop:853:607
+station_gui:TER:stop:365:527
+station_gui:TRI:stop:578:495
+station_gui:TRO:transfer:249:705
+station_gui:TUI:stop:514:705
+station_gui:VAR:stop:434:790
+station_gui:VAU:stop:445:1019
+station_gui:VAV:stop:630:944
+station_gui:VIC:stop:266:613
+station_gui:VIL:transfer:453:440
+station_gui:VOL:stop:477:987
+station_gui:WAG:stop:415:402
+
+# Line colors
+# format: line_gui:code:hexcolor
+
+line_gui:1:#FF0000
+line_gui:2:#0000FF
+line_gui:3:#808000
+line_gui:3bis:#00FFFF
+line_gui:4:#FF00FF
+line_gui:5:#800000
+line_gui:6:#00FF00
+line_gui:12:#008000
+line_gui:13:#00FFFF
+line_gui:13a:#00FFFF
+line_gui:13b:#00FFFF
+
+# Bends
+# format: bend:stationcode:stationcode:x1,y1-x2,y2-x3,y3
+
+bend:CON:TUI:474,705
+bend:SAP:BAS:814,757-854,757-867,769
+bend:BAS:GLY:867,769-904,806-904,846-916,858
+bend:GLY:REU:916,858-944,886
+bend:REU:NAT:1042,788-1061,805
+bend:NAT:PTZ:1061,805-1071,816
+bend:PTZ:SAM:1136,816
+bend:VIC:CDG:272,620
+bend:ROM:PLC:496,398
+bend:ANV:BAR:770,398
+bend:BAR:LCH:770,398
+bend:LCH:STA:906,398-911,403
+bend:STA:JAU:911,403-942,433
+bend:JAU:COL:942,433-949,440
+bend:BEV:COS:949,531
+bend:MEN:PLA:1045,627
+bend:ALD:AVR:1045,757
+bend:AVR:NAT:1077,790
+bend:EUR:SAL:519,506-519,523
+bend:SAL:HAV:519,523-519,545
+bend:QUS:BOU:617,643
+bend:SEN:REA:757,643
+bend:REA:ART:757,643-816,643-830,630
+bend:ART:TEM:830,630
+bend:TEM:REP:877,585-885,585
+bend:REP:PAR:885,585-945,585
+bend:PAR:RSM:997,636
+bend:PLA:GAM:1096,636
+bend:GAM:PTB:1096,636
+bend:GAM:PEL:1099,623
+bend:PEL:SFA:1164,556
+bend:SIM:MRC:733,324
+bend:CHR:BAR:733,404-770,404
+bend:BAR:GNO:770,404-803,404
+bend:GNO:GES:834,436
+bend:GES:CHD:834,480
+bend:CHD:STR:787,528
+bend:STR:REA:787,650-756,650
+bend:REA:ETI:756,650-710,650
+bend:CHA:CIT:710,726
+bend:CIT:SAQ:671,767
+bend:SAQ:ODE:671,818-661,818
+bend:ODE:SAH:661,818
+bend:SAH:SAU:592,818
+bend:SAT:MPB:592,938
+bend:MPB:VAV:592,938-592,944
+bend:VAV:RAS:648,944-664,960
+bend:RAS:DEN:664,960-682,977-682,986
+bend:DEN:MOD:682,986
+bend:MOD:ALE:682,1059
+bend:EGP:HOC:1116,380
+bend:OUR:LAU:993,380
+bend:JAU:STA:937,437-912,412
+bend:STA:GNO:912,412-905,405-840,405-840,428
+bend:GNO:GES:840,428-840,480
+bend:GES:JAC:840,480-840,510-854,524
+bend:JAC:REP:854,568-878,592
+bend:REP:OBE:904,618
+bend:OBE:RIC:904,618-951,665
+bend:BRE:BAS:866,749
+bend:QUR:GAU:866,920
+bend:GAU:SAN:866,920
+bend:SAN:CAP:866,963
+bend:CAP:PLI:819,1010-819,1031
+bend:CDG:KLE:330,572
+bend:BOI:TRO:249,654
+bend:TRO:PAS:249,769
+bend:DUP:LMO:360,880-369,880
+bend:LMO:CAM:369,880-414,880
+bend:SEL:PAT:485,950
+bend:PAT:MPB:578,950
+bend:MPB:EDG:578,950
+bend:EDG:RAS:646,950-660,964
+bend:RAS:DEN:660,964-682,986
+bend:SAJ:GLA:726,1030
+bend:CHH:QUG:926,1030
+bend:PIC:NAT:1102,856-1057,809
+bend:MAR:MRC:840,336
+bend:JUL:LAM:659,336
+bend:SAG:NDL:659,495
+bend:TRI:SAL:533,495-533,523
+bend:SAL:MAD:533,523-533,531-460,604
+bend:MAD:CON:460,691
+bend:CON:ASS:460,691-460,754
+bend:REN:NDC:610,900
+bend:NDC:MPB:610,937-591,937
+bend:MPB:FAL:591,937
+bend:SAL:MRM:526,527-477,576
+bend:MRM:CEC:477,576-434,621
+bend:VAR:SAF:434,835
+bend:DUR:MPB:543,944
+bend:GAI:PRN:585,1005
+bend:PTQ:MPV:483,1107
+bend:BRO:LFO:525,357
+bend:SAC:SAD:761,167
+bend:SAD:CAF:639,167
+bend:GAR:PTE:526,280

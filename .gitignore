@@ -1,0 +1,10 @@
+# Ignore everything in target folder
+/target/*
+
+# Don't ignore project jar
+!/target/metroplanner-*.jar
+
+# Don't ignore testing reports
+!/target/surefire-reports/
+/target/surefire-reports/*
+!/target/surefire-reports/*.txt
